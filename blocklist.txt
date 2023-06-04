@@ -1,1 +1,6 @@
-
+sentry.io
+ssl.google-analytics.com
+securepubads.g.doubleclick.net
+sdkconfig.ad.intl.xiaomi.com
+pagead2.googlesyndication.com
+settings-win.data.microsoft.com
