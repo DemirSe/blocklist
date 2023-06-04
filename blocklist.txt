@@ -5,3 +5,6 @@ upu.samsungelectronics.com
 bpu.samsungelectronics.com
 dpu.samsungelectronics.com
 api.ad.intl.xiaomi.com
+dit.whatsapp.net
+apu.samsungelectronics.com
+zpu.samsungelectronics.com
