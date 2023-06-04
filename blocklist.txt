@@ -4,3 +4,9 @@ securepubads.g.doubleclick.net
 sdkconfig.ad.intl.xiaomi.com
 pagead2.googlesyndication.com
 settings-win.data.microsoft.com
+api.ad.intl.xiaomi.com
+dit.whatsapp.net
+app-measurement.com
+api2.branch.io
+firebase-settings.crashlytics.com
+data.mistat.intl.xiaomi.com
