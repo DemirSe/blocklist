@@ -1,0 +1,6 @@
+unagi-eu.amazon.com
+unagi-na.amazon.com
+xpu.samsungelectronics.com
+upu.samsungelectronics.com
+bpu.samsungelectronics.com
+dpu.samsungelectronics.com
