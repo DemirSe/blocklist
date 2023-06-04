@@ -4,3 +4,4 @@ xpu.samsungelectronics.com
 upu.samsungelectronics.com
 bpu.samsungelectronics.com
 dpu.samsungelectronics.com
+api.ad.intl.xiaomi.com
