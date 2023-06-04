@@ -10,3 +10,9 @@ app-measurement.com
 api2.branch.io
 firebase-settings.crashlytics.com
 data.mistat.intl.xiaomi.com
+unagi-na.amazon.com
+device-metrics-us-2.amazon.com
+unagi-eu.amazon.com
+upu.samsungelectronics.com
+xpu.samsungelectronics.com
+apu.samsungelectronics.com
