@@ -22,3 +22,9 @@
 ||sb.scorecardresearch.com^
 ||www.google-analytics.com^
 ||tvx.adgrx.com^
+||zpu.samsungelectronics.com^
+||ypu.samsungelectronics.com^
+||dpu.samsungelectronics.com^
+||bpu.samsungelectronics.com^
+||cpu.samsungelectronics.com^
+||kpu.samsungelectronics.com^
