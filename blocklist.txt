@@ -33,3 +33,8 @@
 ||rt.applovin.com^
 ||tpc.googlesyndication.com^
 ||hstats.hepsiburada.com^
+||ecsv2.roblox.com^
+||client-telemetry.roblox.com^
+||crashlyticsreports-pa.googleapis.com^
+||configv2.unityads.unity3d.com^
+||demeter-int-ecom-collect.trendyol.com^
