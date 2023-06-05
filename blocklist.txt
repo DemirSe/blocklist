@@ -16,3 +16,9 @@ unagi-eu.amazon.com
 upu.samsungelectronics.com
 xpu.samsungelectronics.com
 apu.samsungelectronics.com
+googleads.g.doubleclick.net
+tracking.intl.miui.com
+tracking.miui.com
+sb.scorecardresearch.com
+www.google-analytics.com
+tvx.adgrx.com
