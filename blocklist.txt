@@ -28,3 +28,8 @@
 ||bpu.samsungelectronics.com^
 ||cpu.samsungelectronics.com^
 ||kpu.samsungelectronics.com^
+||safeframe.googlesyndication.com^
+||static.doubleclick.net^
+||rt.applovin.com^
+||tpc.googlesyndication.com^
+||hstats.hepsiburada.com^
