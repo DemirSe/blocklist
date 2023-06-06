@@ -38,3 +38,9 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||configv2.unityads.unity3d.com^
 ||demeter-int-ecom-collect.trendyol.com^
+||beacons.gvt2.com^
+||beacons2.gvt2.com^
+||beacons.gcp.gvt2.com^
+||analytics.google.com^
+||stats.g.doubleclick.net^
+||beacons4.gvt2.com^
