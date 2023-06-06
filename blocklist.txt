@@ -45,3 +45,9 @@
 ||analytics.google.com^
 ||stats.g.doubleclick.net^
 ||beacons4.gvt2.com^
+||api.brs.intl.miui.com^
+||app-analytics-v2.snapchat.com^
+||api.mixpanel.com^
+||statsigapi.net^
+||events.statsigapi.net^
+||beacons5.gvt3.com^
