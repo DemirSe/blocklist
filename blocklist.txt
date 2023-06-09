@@ -1,4 +1,3 @@
-#||^
 ||sentry.io^
 ||ssl.google-analytics.com^
 ||securepubads.g.doubleclick.net^
@@ -51,3 +50,22 @@
 ||statsigapi.net^
 ||events.statsigapi.net^
 ||beacons5.gvt3.com^
+||incoming-telemetry.thunderbird.net^
+||vortex.data.microsoft.com^
+||beacons3.gvt2.com^
+||beacons5.gvt2.com^
+||telemetry.malwarebytes.com^
+||creativecdn.com^
+||static.hotjar.com^
+||analytics.tiktok.com^
+||fast.a.klaviyo.com^
+||analytics.console.aws.a2z.com^
+||shopify-init.blackcrow.ai^
+||listen.audiohook.com^
+||j.northbeam.io^
+||cdn.taboola.com^
+||static.criteo.net^
+||radar.cedexis.com^
+||static.ads-twitter.com^
+||hepsiburada01.webtrekk.net^
+||fls.doubleclick.net^
